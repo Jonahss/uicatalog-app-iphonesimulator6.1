@@ -1,0 +1,22 @@
+{
+  "name": "uicatalog-app-iphonesimulator6.1",
+  "version": "1.0.0",
+  "description": "iOS UICatalog app for sdk 6.1",
+  "main": "UICatalog6.1.app.zip",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jonahss/uicatalog-app-iphonesimulator6.1.git"
+  },
+  "keywords": [
+    "appium",
+    "ios",
+    "test",
+    "app",
+    "uicatalog"
+  ],
+  "author": "Apple",
+  "bugs": {
+    "url": "https://github.com/Jonahss/uicatalog-app-iphonesimulator6.1/issues"
+  },
+  "homepage": "https://github.com/Jonahss/uicatalog-app-iphonesimulator6.1"
+}
